@@ -20,12 +20,17 @@ public class Variables {
      */
     public static void main(String[] args){
         String name ="Jawad";
+        //mutable
+        name="Ahmed";
         System.out.println(name);
         /**********
          * int example
          * it is number type
          */
         int age = 28;
+        System.out.println(age);
+        //mutable int
+        age = 29;
         System.out.println(age);
     }
 
