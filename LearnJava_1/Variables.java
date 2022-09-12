@@ -14,13 +14,19 @@ public class Variables {
 
     /********
      * Creation of variables
-     * type varibaleName = property
+     * type variableName = property
      * String example
      * String must be inside "";
      */
     public static void main(String[] args){
         String name ="Jawad";
         System.out.println(name);
+        /**********
+         * int example
+         * it is number type
+         */
+        int age = 28;
+        System.out.println(age);
     }
 
 
