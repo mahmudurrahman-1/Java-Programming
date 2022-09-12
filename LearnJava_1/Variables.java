@@ -18,8 +18,10 @@ public class Variables {
      * String example
      * String must be inside "";
      */
-    String name ="Jawad";
-    
+    public static void main(String[] args){
+        String name ="Jawad";
+        System.out.println(name);
+    }
 
 
 }
