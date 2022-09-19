@@ -20,7 +20,7 @@ public class Variables {
      */
     public static void main(String[] args){
         String name ="Jawad";
-        //mutable
+        //mutation
         name="Ahmed";
         System.out.println(name);
         /**********
