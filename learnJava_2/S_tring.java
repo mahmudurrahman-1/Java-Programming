@@ -7,7 +7,8 @@ public class S_tring {
     public void addString(){
         firstName="Jawad";
         lastName="Ahmed";
-        fullName=firstName + lastName;
+        fullName=firstName +" "+ lastName;
         System.out.println(fullName);
+
     }
 }

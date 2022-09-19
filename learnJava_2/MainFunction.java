@@ -6,7 +6,7 @@ public class MainFunction {
 
 
     public static void main(String[] args){
-        //Instances
+        //Instances1
         Integer integerVar =new Integer();
         Float floatVar = new Float();
         S_tring stringVar =new S_tring();
@@ -14,6 +14,7 @@ public class MainFunction {
         //Actions
         integerVar.addInt();
         floatVar.addFloat();
-        
+        stringVar.addString();
+        boolVar.result();
     }
 }

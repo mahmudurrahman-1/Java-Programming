@@ -7,8 +7,9 @@ public class Bool_ean {
 
     public void result(){
         Scanner scan =new Scanner(System.in);
+
         age = scan.nextInt();
-        if (age <= 18){
+        if (age >= 18){
             System.out.println("He is able to vote");
         }
         else {
